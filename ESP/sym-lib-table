@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ProMicro")(type "Legacy")(uri "/home/user/Projects/ProMicro/lib/ProMicro.lib")(options "")(descr ""))
+  (lib (name "ProMicro_ESP-rescue")(type "Legacy")(uri "${KIPRJMOD}/ProMicro_ESP-rescue.lib")(options "")(descr ""))
+)
