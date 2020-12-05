@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name Package_BGA)(type KiCad)(uri /home/user/Projects/kicad-footprint-generator/scripts/Packages/Package_BGA/Package_BGA.pretty)(options "")(descr ""))
+  (lib (name Module)(type KiCad)(uri /home/user/Projects/kicad-footprints/Module.pretty)(options "")(descr ""))
 )
